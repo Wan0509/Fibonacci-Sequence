@@ -1,0 +1,27 @@
+/*
+ * Author: Benjamin Hufschmid
+*/
+
+body {
+	font-family:    sans-serif;
+	margin:			    3em;
+	padding:		    0em;
+	background:		  grey;
+  color:          white;
+}
+
+h3, footer {
+	/*text-align:		center;*/
+	color: 			    black;
+}
+
+button {
+	border-radius:	10px;
+}
+input {
+	padding-left:	  8px;
+}
+
+li {
+  list-style:     none;
+}

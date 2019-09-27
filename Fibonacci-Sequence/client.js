@@ -1,6 +1,6 @@
 /*
  * Fibonacci-Sequence up to 100. position
- * Author: "Benjamin Hufschmid"
+ * Author: "Wan"
  */
 
 //Sleepfunction between the output
